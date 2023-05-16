@@ -8,4 +8,4 @@ This is my tryout for language identification.
 
 3. There are tweets written English and Spanish. Each token in a tweet should be identified to belong to 'en', 'es' or 'other' class.
 
-There are additional info fro problems 1 and 2 in a [readme](./langid/README.md) under langid folder, and about the third problem in a  [readme](./code-switching/README.md) under code-switching folder.
+There are additional info for problems 1 and 2 in [readme](./langid/README.md) under langid folder, and about the third problem in  [readme](./code-switching/README.md) under code-switching folder.
